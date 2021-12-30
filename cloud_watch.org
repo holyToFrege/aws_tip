@@ -1,0 +1,8 @@
+#+TITLE: CloudWatch 사용법
+#+AUTHOR: Holy frege
+#+OPTIONS: toc:nil num:nil
+#+LATEX_CMD: xelatex
+#+LATEX_CLASS: oblivoir
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage{kotex}
+* 
